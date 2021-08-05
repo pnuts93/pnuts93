@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pnuts93
-- 👀 I’m interested in Innovation, Environment, and much more
-- 🌱 I’m currently learning C and web design
+- 👀 I’m interested in Automation, Environment, and much more
+- 🌱 I’m currently learning C, system administration and web design
