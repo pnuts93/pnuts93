@@ -13,7 +13,7 @@ Hello there, I’m @pnuts93
 </div>
   
 - 🏠 I come from Cagliari, Italy, and I live in Berlin  
-- 🎓 I'm a software engineering student at <a href="https://42wolfsburg.de/">42 Wolfsburg</a> and <a href="https://www.redhat.com/en">Red Hat</a> Ambassador  
+- 🎓 I'm a software engineering student at <a href="https://42wolfsburg.de/">42 Wolfsburg</a> and a software engineering intern at Capgemini  
 - 👀 I’m interested in Automation, Environment, Embedded Software Development and much more  
 - ⚒  I can work with:  
 <div class="stack">
