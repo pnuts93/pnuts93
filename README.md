@@ -19,7 +19,7 @@ Hello there, I’m @pnuts93
 <div class="stack">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
 </div>
