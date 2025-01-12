@@ -14,12 +14,13 @@ Hello there, I’m @pnuts93
   
 - 🏠 I come from Cagliari, Italy, and I live in Berlin  
 - 🎓 I'm a software engineering student at <a href="https://42berlin.de/">42 Berlin</a> and a Software Engineer at Capgemini  
-- 👀 I’m interested in Automation, Environment, Embedded Software Development and much more  
+- 👀 I’m interested in Process Automation, Environment and Automotive  
 - ⚒  I can work with:  
 <div class="stack">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
 </div>
